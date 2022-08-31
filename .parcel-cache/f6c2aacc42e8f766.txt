@@ -1,4 +1,4 @@
-7635
+7636
 50F:\VSCODE PROJECTS\forkify\node_modules\domhandler133063438216524898 1
 74F:\VSCODE PROJECTS\forkify\node_modules\electron-to-chromium\versions.json133063438275198111 0
 68F:\VSCODE PROJECTS\forkify\node_modules\svgo\plugins\_collections.js133063438183755191 0
@@ -40,7 +40,7 @@
 98F:\VSCODE PROJECTS\forkify\node_modules\@parcel\transformer-js\parcel-swc.linux-arm-gnueabihf.node133063438651959652 0
 61F:\VSCODE PROJECTS\forkify\node_modules\svgo\lib\css-tools.js133063438328996862 0
 84F:\VSCODE PROJECTS\forkify\node_modules\@babel\highlight\node_modules\supports-color133063438180382141 1
-31F:\VSCODE PROJECTS\forkify\dist133064231565559701 1
+31F:\VSCODE PROJECTS\forkify\dist133064288987244259 1
 86F:\VSCODE PROJECTS\forkify\node_modules\core-js\modules\es.typed-array.uint16-array.js133063542298565859 0
 57F:\VSCODE PROJECTS\forkify\node_modules\boolbase\index.js133063438159913581 0
 77F:\VSCODE PROJECTS\forkify\node_modules\core-js\actual\symbol\has-instance.js133063542460242475 0
@@ -88,7 +88,7 @@
 77F:\VSCODE PROJECTS\forkify\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133063438346652956 0
 72F:\VSCODE PROJECTS\forkify\node_modules\core-js\full\string\ends-with.js133063542241033727 0
 62F:\VSCODE PROJECTS\forkify\node_modules\@parcel\diagnostic\lib133063438268241781 1
-37F:\VSCODE PROJECTS\forkify\index.html133064221574741865 0
+37F:\VSCODE PROJECTS\forkify\index.html133064288979757463 0
 59F:\VSCODE PROJECTS\forkify\node_modules\weak-lru-cache\dist133063438145120171 1
 89F:\VSCODE PROJECTS\forkify\node_modules\@parcel\core\test\fixtures\invalid-source-missing133063438553360271 1
 81F:\VSCODE PROJECTS\forkify\node_modules\core-js\modules\es.number.to-precision.js133063542277396695 0
@@ -170,37 +170,34 @@
 53F:\VSCODE PROJECTS\forkify\node_modules\msgpackr\dist133063438287719512 1
 74F:\VSCODE PROJECTS\forkify\node_modules\core-js\actual\object\is-sealed.js133063542546860925 0
 68F:\VSCODE PROJECTS\forkify\node_modules\core-js\stable\array\from.js133063542413439974 0
-46F:\VSCODE PROJECTS\forkify\src\sass\_base.scss133063472734869339 0
+46F:\VSCODE PROJECTS\forkify\src\sass\_base.scss133064276627983863 0
 53F:\VSCODE PROJECTS\forkify\src\js\views\recipeView.js133064222833050134 0
 57F:\VSCODE PROJECTS\forkify\node_modules\lines-and-columns133063438168621568 1
 68F:\VSCODE PROJECTS\forkify\node_modules\core-js\full\number\range.js133063542641616821 0
 58F:\VSCODE PROJECTS\forkify\node_modules\core-js\stage\3.js133063542065164245 0
 64F:\VSCODE PROJECTS\forkify\node_modules\glob-parent\package.json133063440049136231 0
 71F:\VSCODE PROJECTS\forkify\node_modules\core-js\full\string\includes.js133063542476136807 0
-42F:\VSCODE PROJECTS\forkify\src\js\model.js133064231130155889 0
+42F:\VSCODE PROJECTS\forkify\src\js\model.js133064234820684367 0
 84F:\VSCODE PROJECTS\forkify\node_modules\caniuse-lite\data\features\css-namespaces.js133063438552769721 0
 59F:\VSCODE PROJECTS\forkify\node_modules\parse-json\index.js133063438153247535 0
 77F:\VSCODE PROJECTS\forkify\node_modules\core-js\proposals\iterator-helpers.js133063542556019231 0
 71F:\VSCODE PROJECTS\forkify\node_modules\caniuse-lite\data\regions\AG.js133063438260064380 0
 75F:\VSCODE PROJECTS\forkify\node_modules\core-js\stable\string\trim-right.js133063542748623870 0
 77F:\VSCODE PROJECTS\forkify\node_modules\@parcel\transformer-svg\src\inline.js133063438247422908 0
-52F:\VSCODE PROJECTS\forkify\src\sass\_components.scss133063502697321393 0
+52F:\VSCODE PROJECTS\forkify\src\sass\_components.scss133064275304897059 0
 49F:\VSCODE PROJECTS\forkify\src\sass\_preview.scss132886955210000000 0
 80F:\VSCODE PROJECTS\forkify\node_modules\@parcel\transformer-js\src\loadNative.js133063438275198111 0
 71F:\VSCODE PROJECTS\forkify\node_modules\caniuse-lite\data\regions\BY.js133063438472517053 0
-48F:\VSCODE PROJECTS\forkify\src\sass\_header.scss133064108018514074 0
+48F:\VSCODE PROJECTS\forkify\src\sass\_header.scss133064282143803550 0
 116F:\VSCODE PROJECTS\forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0133063438309649346 1
 61F:\VSCODE PROJECTS\forkify\node_modules\fractional\index.html133064034748993884 0
 69F:\VSCODE PROJECTS\forkify\node_modules\svgo\plugins\removeDoctype.js133063438389161403 0
+57F:\VSCODE PROJECTS\forkify\src\js\views\paginationView.js133064269535788192 0
 108F:\VSCODE PROJECTS\forkify\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\package.json133063438512042800 0
 71F:\VSCODE PROJECTS\forkify\node_modules\caniuse-lite\data\regions\SK.js133063438694157894 0
-48F:\VSCODE PROJECTS\forkify\src\sass\_recipe.scss133063524093527877 0
-77F:\VSCODE PROJECTS\forkify\node_modules\core-js\full\number\to-exponential.js133063542720478328 0
-88F:\VSCODE PROJECTS\forkify\node_modules\@swc\helpers\lib\_check_private_redeclaration.js133063438270683995 0
-67F:\VSCODE PROJECTS\forkify\node_modules\node-addon-api\CHANGELOG.md133063438323331815 0
-50F:\VSCODE PROJECTS\forkify\node_modules\color-name133063438166019139 1
+48F:\VSCODE PROJECTS\forkify\src\sass\_recipe.scss133064287586447061 0
 65F:\VSCODE PROJECTS\forkify\node_modules\is-binary-path\index.d.ts133063440048335501 0
-55F:\VSCODE PROJECTS\forkify\src\sass\_searchResults.scss132886955210000000 0
+55F:\VSCODE PROJECTS\forkify\src\sass\_searchResults.scss133064282992050899 0
 74F:\VSCODE PROJECTS\forkify\node_modules\core-js\full\array-buffer\index.js133063542508896509 0
 85F:\VSCODE PROJECTS\forkify\node_modules\caniuse-lite\data\features\css-text-indent.js133063438567022645 0
 78F:\VSCODE PROJECTS\forkify\node_modules\core-js\es\string\virtual\match-all.js133063542591111040 0
@@ -217,7 +214,7 @@
 48F:\VSCODE PROJECTS\forkify\src\sass\_upload.scss132886955210000000 0
 75F:\VSCODE PROJECTS\forkify\node_modules\core-js\full\async-iterator\some.js133063542685826903 0
 51F:\VSCODE PROJECTS\forkify\node_modules\safe-buffer133063438180262028 1
-49F:\VSCODE PROJECTS\forkify\dist\index.e37f48ea.js133064231565269480 0
+49F:\VSCODE PROJECTS\forkify\dist\index.e37f48ea.js133064280419503815 0
 64F:\VSCODE PROJECTS\forkify\node_modules\core-js\stable\data-view133063542518535255 1
 43F:\VSCODE PROJECTS\forkify\src\js\config.js133064230813769623 0
 74F:\VSCODE PROJECTS\forkify\node_modules\core-js\stable\string\trim-left.js133063542746532019 0
@@ -234,7 +231,7 @@
 80F:\VSCODE PROJECTS\forkify\node_modules\core-js\full\typed-array\reduce-right.js133063542645450389 0
 105F:\VSCODE PROJECTS\forkify\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133063438494096543 0
 73F:\VSCODE PROJECTS\forkify\node_modules\svgo\plugins\removeUselessDefs.js133063438431990245 0
-47F:\VSCODE PROJECTS\forkify\src\js\controller.js133064231561566092 0
+47F:\VSCODE PROJECTS\forkify\src\js\controller.js133064271898265279 0
 66F:\VSCODE PROJECTS\forkify\node_modules\core-js\stable\typed-array133063542770213437 1
 71F:\VSCODE PROJECTS\forkify\node_modules\domutils\lib\traversal.d.ts.map133063438292723979 0
 45F:\VSCODE PROJECTS\forkify\node_modules\clone133063438224011735 1
@@ -280,7 +277,7 @@
 45F:\VSCODE PROJECTS\forkify\src\js\herlpers.js133064078041994622 0
 105F:\VSCODE PROJECTS\forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main133063438491934583 1
 75F:\VSCODE PROJECTS\forkify\node_modules\core-js\stable\typed-array\index.js133063542525501562 0
-39F:\VSCODE PROJECTS\forkify\src\js\views133064186833102924 1
+39F:\VSCODE PROJECTS\forkify\src\js\views133064236292906123 1
 81F:\VSCODE PROJECTS\forkify\node_modules\core-js\stable\string\virtual\iterator.js133063542561884568 0
 80F:\VSCODE PROJECTS\forkify\node_modules\core-js\features\object\define-setter.js133063542221335909 0
 77F:\VSCODE PROJECTS\forkify\node_modules\core-js\modules\es.typed-array.set.js133063542297324788 0
@@ -379,6 +376,10 @@
 60F:\VSCODE PROJECTS\forkify\node_modules\@parcel\core\LICENSE133063438308147958 0
 78F:\VSCODE PROJECTS\forkify\node_modules\core-js\actual\string\code-point-at.js133063542140862872 0
 58F:\VSCODE PROJECTS\forkify\node_modules\chrome-trace-event133063438214623182 1
+77F:\VSCODE PROJECTS\forkify\node_modules\core-js\full\number\to-exponential.js133063542720478328 0
+88F:\VSCODE PROJECTS\forkify\node_modules\@swc\helpers\lib\_check_private_redeclaration.js133063438270683995 0
+67F:\VSCODE PROJECTS\forkify\node_modules\node-addon-api\CHANGELOG.md133063438323331815 0
+50F:\VSCODE PROJECTS\forkify\node_modules\color-name133063438166019139 1
 67F:\VSCODE PROJECTS\forkify\node_modules\supports-color\package.json133063438169442220 0
 49F:\VSCODE PROJECTS\forkify\node_modules\commander133063438234801493 1
 63F:\VSCODE PROJECTS\forkify\node_modules\terser\lib\sourcemap.js133063438421540757 0
@@ -604,7 +605,7 @@
 74F:\VSCODE PROJECTS\forkify\node_modules\core-js\full\array\virtual\sort.js133063542689900650 0
 54F:\VSCODE PROJECTS\forkify\node_modules\core-js\es\map133063542496705546 1
 44F:\VSCODE PROJECTS\forkify\node_modules\lmdb133063438536024548 1
-53F:\VSCODE PROJECTS\forkify\dist\index.e37f48ea.js.map133064231565529723 0
+53F:\VSCODE PROJECTS\forkify\dist\index.e37f48ea.js.map133064280420184353 0
 71F:\VSCODE PROJECTS\forkify\node_modules\@parcel\plugin\src\PluginAPI.js133063438215403912 0
 73F:\VSCODE PROJECTS\forkify\node_modules\core-js\stable\instance\filter.js133063542352044316 0
 84F:\VSCODE PROJECTS\forkify\node_modules\caniuse-lite\data\features\array-includes.js133063438343840399 0
@@ -948,8 +949,8 @@
 75F:\VSCODE PROJECTS\forkify\node_modules\core-js\modules\esnext.map.merge.js133063542313249159 0
 84F:\VSCODE PROJECTS\forkify\node_modules\@parcel\transformer-postcss\src\constants.js133063438219827896 0
 58F:\VSCODE PROJECTS\forkify\node_modules\yaml\browser\types133063438375428954 1
-67F:\VSCODE PROJECTS\forkify\node_modules\lmdb\src\ordered-binary.cpp133063438484417753 0
 89F:\VSCODE PROJECTS\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133063438466821802 0
+67F:\VSCODE PROJECTS\forkify\node_modules\lmdb\src\ordered-binary.cpp133063438484417753 0
 81F:\VSCODE PROJECTS\forkify\node_modules\caniuse-lite\data\features\text-stroke.js133063438712094154 0
 61F:\VSCODE PROJECTS\forkify\node_modules\yaml\browser\types.js133063438384827482 0
 67F:\VSCODE PROJECTS\forkify\node_modules\svgo\plugins\mergeStyles.js133063438340847609 0
@@ -2627,7 +2628,7 @@
 79F:\VSCODE PROJECTS\forkify\node_modules\caniuse-lite\data\features\dommatrix.js133063438583677771 0
 89F:\VSCODE PROJECTS\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133063438247883406 0
 80F:\VSCODE PROJECTS\forkify\node_modules\core-js\stable\string\virtual\italics.js133063542552886399 0
-42F:\VSCODE PROJECTS\forkify\dist\index.html133064221579245924 0
+42F:\VSCODE PROJECTS\forkify\dist\index.html133064288987184197 0
 75F:\VSCODE PROJECTS\forkify\node_modules\core-js\full\instance\trim-start.js133063542749945102 0
 71F:\VSCODE PROJECTS\forkify\node_modules\core-js\stable\object\freeze.js133063542405152457 0
 88F:\VSCODE PROJECTS\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133063438265739567 0
@@ -4136,7 +4137,7 @@
 80F:\VSCODE PROJECTS\forkify\node_modules\@parcel\transformer-js\lib\loadNative.js133063438268291888 0
 93F:\VSCODE PROJECTS\forkify\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs133063438508369470 0
 72F:\VSCODE PROJECTS\forkify\node_modules\core-js\modules\es.math.clz32.js133063542272702398 0
-49F:\VSCODE PROJECTS\forkify\dist\logo.726d37a8.png133064157165114844 0
+49F:\VSCODE PROJECTS\forkify\dist\logo.726d37a8.png133064280419053326 0
 71F:\VSCODE PROJECTS\forkify\node_modules\core-js\modules\es.math.cosh.js133063542273433060 0
 71F:\VSCODE PROJECTS\forkify\node_modules\core-js\modules\es.math.imul.js133063542274093651 0
 72F:\VSCODE PROJECTS\forkify\node_modules\core-js\modules\es.math.log10.js133063542274504073 0
@@ -6835,7 +6836,7 @@
 68F:\VSCODE PROJECTS\forkify\node_modules\abortcontroller-polyfill\src133063438285327312 1
 86F:\VSCODE PROJECTS\forkify\node_modules\abortcontroller-polyfill\src\abortableFetch.js133063438180892600 0
 96F:\VSCODE PROJECTS\forkify\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js133063438219347457 0
-50F:\VSCODE PROJECTS\forkify\dist\icons.21bad73c.svg133064157164854613 0
+50F:\VSCODE PROJECTS\forkify\dist\icons.21bad73c.svg133064280420364520 0
 87F:\VSCODE PROJECTS\forkify\node_modules\abortcontroller-polyfill\src\abortcontroller.js133063438242688693 0
 80F:\VSCODE PROJECTS\forkify\node_modules\abortcontroller-polyfill\src\polyfill.js133063438272595732 0
 80F:\VSCODE PROJECTS\forkify\node_modules\abortcontroller-polyfill\src\ponyfill.js133063438278000674 0
@@ -7198,7 +7199,7 @@
 94F:\VSCODE PROJECTS\forkify\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133063438271334593 0
 85F:\VSCODE PROJECTS\forkify\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133063438253238180 0
 79F:\VSCODE PROJECTS\forkify\node_modules\@parcel\runtime-browser-hmr\lib\loaders133063438213472134 1
-50F:\VSCODE PROJECTS\forkify\dist\icons.dfd7a6db.svg133064157164874681 0
+50F:\VSCODE PROJECTS\forkify\dist\icons.dfd7a6db.svg133064280420374552 0
 94F:\VSCODE PROJECTS\forkify\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133063438217055375 0
 111F:\VSCODE PROJECTS\forkify\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\source.js133063438469484300 0
 68F:\VSCODE PROJECTS\forkify\node_modules\@parcel\resolver-default\lib133063438208797905 1
@@ -7630,7 +7631,7 @@
 53F:\VSCODE PROJECTS\forkify\node_modules\.bin\svgo.ps1133063438734604596 0
 55F:\VSCODE PROJECTS\forkify\node_modules\.bin\terser.cmd133063438734574534 0
 55F:\VSCODE PROJECTS\forkify\node_modules\.bin\terser.ps1133063438734594563 0
-52F:\VSCODE PROJECTS\forkify\dist\favicon.8b2f57bf.png133064157164964666 0
+52F:\VSCODE PROJECTS\forkify\dist\favicon.8b2f57bf.png133064280418903198 0
 49F:\VSCODE PROJECTS\forkify\dist\index.62406edb.js133063440129709289 0
-50F:\VSCODE PROJECTS\forkify\dist\index.f7626f62.css133064210625726116 0
-54F:\VSCODE PROJECTS\forkify\dist\index.f7626f62.css.map133064210626026369 0
+50F:\VSCODE PROJECTS\forkify\dist\index.f7626f62.css133064287591761953 0
+54F:\VSCODE PROJECTS\forkify\dist\index.f7626f62.css.map133064287591922021 0
