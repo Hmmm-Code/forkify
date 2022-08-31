@@ -2,10 +2,10 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "Tasty food application",
-  "main": "index.js",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --no-scope-hoist"
   },
   "author": "Muhammad Sohaib",
   "license": "ISC",
