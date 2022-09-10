@@ -1,9 +1,16 @@
 .recipe {
   // background-color: $color-grey-light-1;
   color: black;
-
-  box-shadow: 0 3px 6px 1px rgba(0,0,0,0.2);
     transition: 0.5s; 
+    padding: 1rem 0;
+    margin: 2rem;
+
+  .recipe__main {
+    box-shadow: 0 3px 6px 1px rgba(0,0,0,0.2);
+    margin-bottom: 2rem;
+    border-radius: 1rem;
+    
+  }
 
   ///////////
   // FIGURE
@@ -39,12 +46,14 @@
 
   &__title {
     position: absolute;
-    bottom: 0;
+    bottom: inherit;
+    top: 60%;
     left: 50%;
+   
     transform: translate(-50%, 20%) skewY(-6deg);
     color: #fff;
     font-weight: 700;
-    font-size: 3.25rem;
+    font-size: 3rem;
     text-transform: uppercase;
     width: 50%;
     line-height: 1.95;
@@ -73,8 +82,6 @@
     display: flex;
     align-items: center;
     padding: 7.5rem 8rem 3.5rem 8rem;
-    margin-bottom: 1rem;
-    box-shadow: 0 3px 6px 1px rgba(0,0,0,0.2);
     transition: 0.5s; 
  
   }
@@ -141,7 +148,8 @@
     align-items: center;
     box-shadow: 0 3px 6px 1px rgba(0,0,0,0.2);
     transition: 0.5s; 
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 1rem;
   }
 
   &__ingredient-list {
@@ -177,10 +185,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    box-shadow: 0 10px 0px 0px rgba(0,0,0,0.2);
-    box-shadow: 100rem 3px 6px 1px rgba(0,0,0,0.2);
+    
+    box-shadow: 0 3px 6px 1px rgba(0,0,0,0.3);
     transition: 0.5s; 
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 1rem;
   }
 
   &__directions-text {
@@ -195,12 +204,12 @@
   }
 
 
-  .message:hover{
-    transform: scale(1.01);
-  }
-  &__details:hover,
-  &__ingredients:hover,
-  &__directions:hover {
-    transform: scale(1.01);
-  }
+  // .message:hover{
+  //   transform: scale(1.01);
+  // }
+  // &__details:hover,
+  // &__ingredients:hover,
+  // &__directions:hover {
+  //   transform: scale(1.01);
+  // }
 }

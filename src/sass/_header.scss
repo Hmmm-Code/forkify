@@ -2,9 +2,13 @@
   color: black;
   grid-area: head;
   // background-color: $color-grey-light-1;
+  margin: 0 2rem;
+  margin-top: 1rem;
+  border-radius: 1rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  box-shadow: 0 3px 6px 1px #0003;
 
   &__logo {
     margin-left: 4rem;

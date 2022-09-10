@@ -18,6 +18,7 @@ class RecipesView extends View {
 
   _generateMarkup() {
     return `
+    <div class="recipe__main">
     <figure class="recipe__fig">
           <img src="${this._data.image}" alt="${
       this._data.title
@@ -68,6 +69,7 @@ class RecipesView extends View {
               <use href="${icons}#icon-bookmark-fill"></use>
             </svg>
           </button>
+        </div>
         </div>
 
         <div class="recipe__ingredients">
